@@ -2,11 +2,15 @@ html {
   font-family: 'Courier New', serif;
 }
 
-img {
+.juliana {
   height: 15%;
   width: 15%;
   border-radius: 20px;
   float: right;
   padding-left: 10px;
   padding-bottom: 10px;
+}
+
+.footer {
+  text-align: center;
 }
