@@ -6,4 +6,6 @@ img {
   height: 15%;
   width: 15%;
   border-radius: 20px;
+  float: right;
+  padding: 10px;
 }
