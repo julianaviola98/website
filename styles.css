@@ -1,5 +1,14 @@
 html {
-  font-family: 'Courier New', serif;
+  font-family: 'EB Garamond', serif;
+  font-optical-sizing: auto;
+}
+
+h1, h2 {
+  font-family: 'Oswald', serif;
+  font-weight: 400;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-underline-offset: 10px;
 }
 
 .juliana {
@@ -11,6 +20,6 @@ html {
   padding-bottom: 10px;
 }
 
-.footer {
+footer {
   text-align: center;
 }
