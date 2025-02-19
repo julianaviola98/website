@@ -3,12 +3,16 @@ html {
   font-optical-sizing: auto;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Oswald', serif;
   font-weight: 400;
+}
+
+h1, h2 {
   text-decoration: underline;
   text-decoration-style: wavy;
   text-underline-offset: 10px;
+
 }
 
 .juliana {
